@@ -3,7 +3,7 @@
 	"version": "0.2.0",
 	"description": "Comments a pull request with the lcov code coverage",
 	"license": "MIT",
-	"author": "Veddha Edsa <@vebr>",
+	"author": "Yunus Can Sakalli <@adamsocrat>",
 	"repository": "https://github.com/vebr/jest-lcov-reporter",
 	"keywords": [
 		"actions",
