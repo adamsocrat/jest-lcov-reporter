@@ -1,4 +1,4 @@
-name: Jest Lcov Reporter v2
+name: Lcov Reporter Jest
 description: Comments a pull request with the code coverage
 author: Yunus Can Sakalli
 branding:
